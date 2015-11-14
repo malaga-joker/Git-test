@@ -1,5 +1,8 @@
 just a test for git pull
 
 first try
+<<<<<<< HEAD
 
 second try
+=======
+>>>>>>> a5081dcaf09fbcf5e948f455789c1e4affaeee4e
